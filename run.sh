@@ -1,5 +1,5 @@
 
-spring init --dependencies=web,data-jpa,h2,lombok --groupId=com.example --artifactId=person-audit --build=maven
+#spring init --dependencies=web,data-jpa,h2,lombok --groupId=com.example --artifactId=person-audit --build=maven
 
 # Step 2: Create the necessary directories
 echo "Setting up project structure..."
